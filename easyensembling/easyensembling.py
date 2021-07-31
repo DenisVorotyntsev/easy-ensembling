@@ -17,5 +17,5 @@ class Model:
 
             pred = pred / len(self.models)
 
-        y_hat += pred
+            y_hat += pred
         return y_hat
